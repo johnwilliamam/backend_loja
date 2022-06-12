@@ -1,0 +1,16 @@
+{
+  "name": "backend_loja",
+  "version": "1.0.0",
+  "description": "Backend portal loja",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "author": "https://github.com/johnwilliamam",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "nodemon": "^2.0.16"
+  }
+}
